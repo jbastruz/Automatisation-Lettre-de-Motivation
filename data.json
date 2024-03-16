@@ -1,0 +1,116 @@
+[
+  {"Experience Professionelles":
+    {
+      "Data Scientist / Data Analyst": {
+        "company": "EXSOLVAE",
+        "duration": "March 2023 - Present (1 year 1 month)",
+        "location": "Annecy, Auvergne, Rhone-Alpes, France",
+        "description": "Currently working on the international IFRS17 development team. Previously developed calculation tools for Mistral.ai reinsurance and data management to prepare for FastAP data."
+      },
+      "Actuarial Analyst": {
+        "company": "Ethias Insurance",
+        "duration": "September 2020 - March 2023",
+        "location": "Liege, Region wallonne, Belgium",
+        "description": "Developed and automated data analysis and visualization tools. Also involved in machine learning model analysis and validation for auto contract pricing."
+      },
+      "Expert IFRS17 Validation": {
+        "company": "Ethias Insurance",
+        "description": "Validated methodology and UR, implemented a control plan for IFRS17 result validation, and organized work and relectures with the actuarial team."
+      },
+      "Encadrement Stagiaires (BI developpent)": {
+        "company": "Ethias Insurance",
+        "duration": "September 2020 - March 2023",
+        "location": "Liege, Region wallonne, Belgium",
+        "description": "Supervised BI development interns, implemented a Shiny server and bitbucket, and provided support for a non-life actuarial team for IFRS17 transition."
+      },
+      "IFRS17 Expert": {
+        "duration": "",
+        "description": "Validated IFRS17 methodology and implemented a control plan for IFRS17 result validation."
+      },
+      "Consultant Junior Data Scientist": {
+        "company": "addactis",
+        "duration": "January 2018 - September 2020",
+        "location": "Brussels, Madrid, Sotchi, Moscow",
+        "description": "Worked on data science projects, including a Bayesian method for predicting the number of Covid-19 cases and a machine learning method for detecting credit card fraud."
+      },
+      "Analyste de risques de marche": {
+        "company": "Societe Generale",
+        "duration": "October 2016 - September 2017",
+        "location": "Paris-La Defense ile-de-France, France",
+        "description": "Developed a liquidity estimation model for sovereign debt and calculated and developed stress test scenarios."
+      },
+      "Assistant en finance de marche": {
+        "company": "Caisse d'Epargne Rhone Alpes",
+        "duration": "June 2016 - August 2016",
+        "location": "Lyon, Auvergne, Rhone-Alpes, France",
+        "description": "Assisted in finance market tasks."
+      },
+      "Auxiliaire de vacances": {
+        "company": "Groupe Credit Agricole",
+        "duration": "August 2015",
+        "location": "Annecy, Auvergne-Rhone-Alpes, France",
+        "description": "Managed liquidities, including account management and transfers."
+      }
+    },
+    "LANGUES":
+    {
+      "French": {
+        "level": "Native"
+      },
+      "English": {
+        "level": "Professionel"
+      }
+    },
+    "COMPÉTENCES":
+    {
+      "Python": {
+        "level": "Professionel"
+      },
+      "R": {
+        "level": "Professionel"
+      },
+      "SQL": {
+        "level": "Confirmed"
+      },
+      "Power BI": {
+        "level": "Professionel"
+      },
+      "Excel": {
+        "level": "Professionel"
+      },
+      "Power Query": {
+        "level": "Beginer"
+      },
+      "Power Automate": {
+        "level": "Beginer"
+      },
+      "Tableau": {
+        "level": "Confirmed"
+      }
+    },
+    "Projet":{
+      "LLM Function Calling with FastAPI": {
+        "compétences" : "python, LLM, Mistral.AI, FastAPI, Extract Transform and Load (ETL)",
+        "description" : "Mistral API is a project that utilizes the Mistral AI model to provide a text-based data exploration tool. The project allows users to interact with a database using natural language queries, and Mistral AI model responds with relevant information by calling appropriate functions. The project uses a combination of Python and Mistral AI SDK to create a client that sends messages to the Mistral AI model and receives responses. The project includes several functions that are used to interact with the database and extract relevant information. The current implementation of the project requires manual and local code execution, but it can be modified to automate this process and provide a seamless user experience. Additionally, the project can be improved by adding more functions to handle complex queries and improve the interaction between the database and the Mistral AI model."
+      },
+      "Chatbot LLM": {
+        "competences" : "python, LLM, Mistral.AI, Nginx, Docker, Pandas, Streamlit, Extract Transform and Load (ETL)",
+        "description" : "Creating a chatbot LLM based on mistral.ai models, using Python and Streamlit, with local storage of conversation history, real-time model selection, conversation reset functionality, user account management, and authentication system."
+      }
+    },
+    "diplomes":{
+      "Financial risk engineering": {
+        "Institution": "ISFA",
+        "Location" : "Lyon",
+        "Date": "2015 - 2017",
+        "Description": "Master Degree"
+      },
+      "Applied Mathematics in Social Sciences" :{
+        "Institution": "Université Claude Bernard Lyon 1",
+        "Location" : "Lyon",
+        "Date": "2012 - 2015",
+        "Description": "Bachelor Degree"
+      }
+    }
+  }
+]
